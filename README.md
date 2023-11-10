@@ -1,4 +1,4 @@
-# TextToSpeach
+# TextToSpeech
 
 ## Description
 The objective of this project is to develop an application that allows the editing and transformation of documents into audio. The target users for this application are individuals with reading difficulties or visual impairments. 
