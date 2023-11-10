@@ -11,21 +11,7 @@ The application is comprised of three main components:
 ## Target Users
 - Individuals with reading difficulties
 - Visually impaired individuals
-
-## Components
-- **Graphical User Interface (GUI):**
-
-- **Back-end:**
-  - [ ] Text editing capabilities
-  - [ ] Document transformation
-
-- **Text-to-Speech (TTS):**
-  - [ ] Integration with external TTS libraries
-
-## Usage
-1. [ ] Instructions for users to interact with the GUI.
-2. [ ] Document transformation process.
-
+- 
 ## Dependencies
 - List of external libraries or tools needed for the application.
 
