@@ -11,9 +11,6 @@ The application is comprised of three main components:
 ## Target Users
 - Individuals with reading difficulties
 - Visually impaired individuals
-- 
-## Dependencies
-- List of external libraries or tools needed for the application.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
